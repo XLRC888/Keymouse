@@ -1,5 +1,5 @@
 # NO MORE UPDATES ARE PLANNED BECAUSE I'VE CHANGED TO UBUNTU.
-
+If you're using an Ubuntu (or a debian based linux distro) you can check out my Keymouse-deb project.
 
 
 # Keymouse
