@@ -1,3 +1,7 @@
+# THIS PROJECT IS NO LONGER SUPPORTED SINCE I CHANGED TO AN UBUNTU COMPUTER.
+
+
+
 # Keymouse
 Use your arrows to move your mouse without a physical one
 # WARNING!
