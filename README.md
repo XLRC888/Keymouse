@@ -1,5 +1,5 @@
 # NO MORE UPDATES ARE PLANNED BECAUSE I'VE SWITCHED TO UBUNTU.
-
+Also made by AI
 
 
 # Keymouse
