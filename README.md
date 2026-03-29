@@ -1,4 +1,5 @@
 # NO MORE UPDATES ARE PLANNED BECAUSE I'VE SWITCHED TO UBUNTU.
+# if you want a linux remake, check out KeymouseLinux
 Also made by AI
 
 
